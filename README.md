@@ -1,2 +1,2 @@
-# TareasBarrantesCajiaoRom-n
+# TareasBarrantesCajiaoRoman
 Tareas del cuso Microprocesadores y Microcontroladores TEC
